@@ -1,0 +1,17 @@
+input{
+    width: 320px;
+    height: 35px;
+}
+.btnAjouter{
+    width: 95%;
+    margin-left: 20px
+    /* margin-left:; */
+}
+thead{
+    width: 600px;
+}
+.actions{
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-around;
+}
